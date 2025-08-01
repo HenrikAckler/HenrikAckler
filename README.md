@@ -6,7 +6,7 @@ Outside of work and school, I'm not much different. I like to learn, I like to t
 
 ## Why is your GitHub bare? 🏜️
 
-I don't think anyone actually cares that I don't have much here, but it bears covering. I finish my side projects if I'm still learning from them, or if I think I can do it better. Personal projects are about growth to me. For example, my [ASCII Art](https://github.com/HenrikAckler/asciiArt) project. I finished it because of how much I learned. Is it good? No, not really, but doing it made everything I wrote after that better. 
+I don't think anyone actually cares that I don't have much here, but it bears covering. I finish my side projects if I'm still learning from them, or if I think I can do it better. Personal projects are about growth to me. For example, my [ASCII Art](https://github.com/HenrikAckler/asciiArt) project. I 'finished' it because of how much I learned. Is it good? No, not really, but doing it made everything I wrote after that better. 
 
 At least daily I open my IDE, or CAD, or shell, or even just a new note page on my tablet, and I see where an idea takes me. That's why my GitHub's empty.
 
@@ -20,23 +20,14 @@ It was not easy. I was a high school student with a few weeks of E&M instruction
 As it turns out, LED's can take much higher voltages than rated for a very brief period, and due to the nonlinear I-V curve, that caused a massive increase in output. In the end, I was dumping kilowatts into an LED strip designed to be ran under 50w. The flash was so fast it was barely visible, but the heat on any skin close to the LED's was there, and using a light sensor and an oscilliscope I could confirm it. In around 50 nano seconds, the light levels skyrocketed to full intensity, holding for nearly exactly a millionth of a second, before plummeting to nothing almost as fast as they appeared. Not many pictures or writings from that project survived, but my oscilliscope victory picture below lives on.
 
 And in the end a difficult school year began, and COVID followed, components were lost and damaged, and I never froze a bullet in time. But that's okay, because the second I started honestly working on the problem it was no longer about the bullet.
-<img width="1720" height="1290" alt="image" src="https://github.com/user-attachments/assets/e8ed1646-1f41-4d1f-a43f-bddf9a453d77" />
+<img width="1720" height="1290" alt="osciliscope img showing 1 microsecond pulse" src="https://github.com/user-attachments/assets/e8ed1646-1f41-4d1f-a43f-bddf9a453d77" />
+
+### ASCII Art
+
+This [program](https://github.com/HenrikAckler/asciiArt) was one of my favorite learning experiences, and one I hope to return to when I've learned more. This project introduced me to bit manipulation, type conversion, String optimization, direct pixel access in images, and program structure. I did know from the start that this was not a good task to run on a single thread on the CPU, but I wanted to see where it would go.
+
+There are two places I think this program needs to go for me to make progress. First of all, ideally I eventually make the leap to GPU or at least parralelized computation. Secondly, I need to make the data structures I use for this play to my advantage. I believe I'm paying a very hefty performance toll in even RAM access costs, nevermind file access. If I don't fix this, I'm pretty sure any reasonable performance increase will be lost to cache thrashing and memory latency. 
+
+---
 
 I hope the read was interesting. I'll add more to this page later, but for now feel free to browse what I have here, or reach out if you'd like to chat. 👋
-
-
-
-<!--
-**HenrikAckler/HenrikAckler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
