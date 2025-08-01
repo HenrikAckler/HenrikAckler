@@ -6,9 +6,9 @@ Outside of work and school, I'm not much different. I like to learn, I like to t
 
 ## Why is your GitHub bare? 🏜️
 
-I don't think anyone actually cares that I don't have much here, but it bears covering. I finish my side projects if I'm still learning from them, or if I think I can do it better. Personal projects are about growth to me. For example, my [ASCII Art](https://github.com/HenrikAckler/asciiArt) project. I 'finished' it because of how much I learned. Is it good? No, not really, but doing it made everything I wrote after that better. 
+I don't think anyone actually cares that I don't have many published projects, but it bears covering. I put my side projects on Github if I'm really learning from them, or if I think I want to share. Personal projects are about growth to me. For example, my [ASCII Art](https://github.com/HenrikAckler/asciiArt) project. I published it because of how much I learned, and how important it was early in my learning journey. Is it good? No, not really, but doing it made everything I wrote after that better, and it's a project I wish to revisit at a later date.
 
-At least daily I open my IDE, or CAD, or shell, or even just a new note page on my tablet, and I see where an idea takes me. That's why my GitHub's empty.
+And while most things don't turn into my next greatest learning journey, at least daily I open my IDE, or CAD, or shell, or even just a new note page on my tablet, and I see where an idea takes me.
 
 ## Favorite Projects 🛠️
 
