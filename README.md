@@ -1,3 +1,6 @@
+# portfolio website 🖼️
+I wanted some practice in simple, from scratch website creation, and I wanted a place to store some project discussions. So I made [this portfolio website](https://henrikackler.github.io/portfolio/).
+
 # whoami ❓
 
 I'm Henrik, though I often go by 'Hank'. Professionally/academically, I'm a Undergraduate at Boise State University's Department of Computer Science, looking to graduate spring of '27. I'm currently looking to get an internship in software development/engineering for the summer of 2026, where I can tackle new challenges and learn new things while contributing to a team effort.
