@@ -1,4 +1,4 @@
-# portfolio website 🖼️
+# Portfolio Website 🖼️
 I wanted some practice in simple, from scratch website creation, and I wanted a place to store some project discussions. So I made [this portfolio website](https://henrikackler.github.io/portfolio/).
 
 # whoami ❓
